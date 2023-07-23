@@ -12,7 +12,7 @@ const Footer = () => {
             <img src={logo1}/>
         </div>
         <div>
-            <p className='text-center text-white text-[18px] mb-5'>Find us on Social Media</p>
+            <p className='text-center text-white text-[18px] mb-5'>Find Us On Social Media</p>
             <div className='flex flex-row text-white justify-center max-md:mt-5'>
                 <FaDiscord className='mx-3 '/>
                 <FaTwitter className='mx-3'/>
